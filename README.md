@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022: Because every masterpiece needs a few flaws.<br>📚 I'm currently learning WedD and Social Skills.<br>🎯 Career Aspirations: As I continue my undergraduate studies, I'm exploring different career paths in software development. I'm particularly interested in exploring opportunities in full-stack development and data science. My goal is to secure a summer internship where I can gain hands-on experience in these areas.
+<br>🎲 Fun fact: Did you know that the term 'bug' in computer science originated in 1947 when a moth caused a malfunction in the Mark II computer at Harvard University? The technicians investigating the issue found the moth trapped in a relay, and ever since, 'debugging' has been a common term for fixing software issues!</p>
 
 ###
 
